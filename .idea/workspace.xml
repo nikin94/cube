@@ -2,670 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb067923-463a-4f84-9b33-b4fb05c9fe30" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/renderers/CSS2DRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/renderers/CSS3DRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/renderers/CSS3DStereoRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/renderers/CanvasRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/renderers/Projector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/renderers/RaytracingRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/renderers/RaytracingWorker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/renderers/SVGRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/renderers/SoftwareRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/audio/AudioBuffer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/CurveUtils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/curves/ClosedSplineCurve3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/curves/SplineCurve3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/BoxGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/CircleBufferGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/CircleGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/CylinderGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/DodecahedronGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/EdgesGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/ExtrudeGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/IcosahedronGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/LatheGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/OctahedronGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/ParametricGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/PlaneBufferGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/PlaneGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/PolyhedronGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/RingGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/ShapeGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/SphereBufferGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/SphereGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/TetrahedronGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/TextGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/TorusGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/TorusKnotGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/TubeGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/geometries/WireframeGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/helpers/ArrowHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/helpers/AxisHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/helpers/BoundingBoxHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/helpers/BoxHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/helpers/CameraHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/helpers/DirectionalLightHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/helpers/EdgesHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/helpers/FaceNormalsHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/helpers/GridHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/helpers/HemisphereLightHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/helpers/PointLightHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/helpers/SkeletonHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/helpers/SpotLightHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/helpers/VertexNormalsHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/extras/helpers/WireframeHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/loaders/BinaryTextureLoader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/loaders/XHRLoader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/math/Spline.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/ambient_pars.glsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/lights_phong_pars_vertex.glsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/lights_phong_vertex.glsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/lights_standard_fragment.glsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/lights_standard_pars_fragment.glsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/linear_to_gamma_fragment.glsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/benchmark/benchmark-1.0.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/benchmark/benchmarking_float32array.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/benchmark/benchmarking_vector3components.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/benchmark/benchmarking_vector3length.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/benchmark/benchmarking_vector3storage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/curves/ClosedSplineCurve3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/BoxGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/CircleBufferGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/CircleGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/CylinderGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/DodecahedronGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/ExtrudeGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/IcosahedronGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/LatheGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/OctahedronGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/ParametricGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/PlaneBufferGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/PlaneGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/PolyhedronGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/RingGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/ShapeGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/SphereBufferGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/SphereGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/TetrahedronGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/TextGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/TorusGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/TorusKnotGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/TubeGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/geometries/WireframeGeometry.tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/test/unit/geometry/EdgesGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/build.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/build.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/build.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/build.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/build_all.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/build_all.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/build_debug.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/build_debug.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/build_max.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/compiler/compiler.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/externs/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/externs/examples.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/externs/extras.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/includes/canvas.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/includes/common.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/includes/css3d.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/includes/extras.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/includes/math.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/build/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/codestyle/codestyle.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/codestyle/config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/npm/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/npm/build.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/npm/footer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/npm/header.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/npm/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/npm/three-math.package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/three/utils/npm/three.package.json" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/scene_building.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/cube.js" afterPath="$PROJECT_DIR$/js/cube.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/.gitignore" afterPath="$PROJECT_DIR$/libs/three/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/.npmignore" afterPath="$PROJECT_DIR$/libs/three/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/LICENSE" afterPath="$PROJECT_DIR$/libs/three/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/README.md" afterPath="$PROJECT_DIR$/libs/three/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/build/three.js" afterPath="$PROJECT_DIR$/libs/three/build/three.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/build/three.min.js" afterPath="$PROJECT_DIR$/libs/three/build/three.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/css/dark.css" afterPath="$PROJECT_DIR$/libs/three/editor/css/dark.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/css/light.css" afterPath="$PROJECT_DIR$/libs/three/editor/css/light.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/css/main.css" afterPath="$PROJECT_DIR$/libs/three/editor/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/docs/Implementing additional commands for undo-redo.md" afterPath="$PROJECT_DIR$/libs/three/editor/docs/Implementing additional commands for undo-redo.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/docs/Writing unit tests for undo-redo commands.md" afterPath="$PROJECT_DIR$/libs/three/editor/docs/Writing unit tests for undo-redo commands.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/examples/arkanoid.app.json" afterPath="$PROJECT_DIR$/libs/three/editor/examples/arkanoid.app.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/examples/camera.app.json" afterPath="$PROJECT_DIR$/libs/three/editor/examples/camera.app.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/examples/particles.app.json" afterPath="$PROJECT_DIR$/libs/three/editor/examples/particles.app.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/examples/pong.app.json" afterPath="$PROJECT_DIR$/libs/three/editor/examples/pong.app.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/index.html" afterPath="$PROJECT_DIR$/libs/three/editor/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Command.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Command.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Config.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Editor.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Editor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/History.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/History.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Loader.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Loader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Menubar.Add.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Menubar.Add.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Menubar.Edit.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Menubar.Edit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Menubar.Examples.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Menubar.Examples.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Menubar.File.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Menubar.File.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Menubar.Help.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Menubar.Help.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Menubar.Play.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Menubar.Play.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Menubar.Status.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Menubar.Status.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Menubar.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Menubar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Player.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Player.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Script.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Animation.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Animation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.BoxGeometry.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.BoxGeometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.BufferGeometry.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.BufferGeometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.CircleGeometry.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.CircleGeometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.CylinderGeometry.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.CylinderGeometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.Geometry.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.Geometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.IcosahedronGeometry.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.IcosahedronGeometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.LatheGeometry.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.LatheGeometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.Modifiers.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.Modifiers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.PlaneGeometry.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.PlaneGeometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.SphereGeometry.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.SphereGeometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.TeapotBufferGeometry.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.TeapotBufferGeometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.TorusGeometry.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.TorusGeometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.TorusKnotGeometry.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.TorusKnotGeometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Geometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.History.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.History.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Material.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Material.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Object.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Object.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Project.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Project.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Properties.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Properties.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Scene.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Scene.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Script.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Settings.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.Settings.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Sidebar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Storage.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Storage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Toolbar.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Toolbar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Viewport.Info.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Viewport.Info.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/Viewport.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/Viewport.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/AddObjectCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/AddObjectCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/AddScriptCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/AddScriptCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/MoveObjectCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/MoveObjectCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/MultiCmdsCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/MultiCmdsCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/RemoveObjectCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/RemoveObjectCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/RemoveScriptCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/RemoveScriptCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/SetColorCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/SetColorCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/SetGeometryCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/SetGeometryCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/SetGeometryValueCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/SetGeometryValueCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/SetMaterialColorCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/SetMaterialColorCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/SetMaterialCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/SetMaterialCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/SetMaterialMapCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/SetMaterialMapCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/SetMaterialValueCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/SetMaterialValueCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/SetPositionCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/SetPositionCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/SetRotationCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/SetRotationCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/SetScaleCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/SetScaleCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/SetSceneCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/SetSceneCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/SetScriptValueCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/SetScriptValueCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/SetUuidCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/SetUuidCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/commands/SetValueCommand.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/commands/SetValueCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/acorn/acorn.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/acorn/acorn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/acorn/acorn_loose.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/acorn/acorn_loose.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/acorn/walk.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/acorn/walk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/app.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/app/index.html" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/addon/dialog.css" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/addon/dialog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/addon/dialog.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/addon/dialog.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/addon/show-hint.css" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/addon/show-hint.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/addon/show-hint.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/addon/show-hint.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/addon/tern.css" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/addon/tern.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/addon/tern.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/addon/tern.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/codemirror.css" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/codemirror.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/codemirror.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/codemirror.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/mode/glsl.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/mode/glsl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/mode/javascript.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/mode/javascript.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/theme/monokai.css" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/codemirror/theme/monokai.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/esprima.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/esprima.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/glslprep.min.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/glslprep.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/jsonlint.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/jsonlint.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/signals.min.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/signals.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/tern-threejs/threejs.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/tern-threejs/threejs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/ternjs/comment.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/ternjs/comment.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/ternjs/def.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/ternjs/def.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/ternjs/doc_comment.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/ternjs/doc_comment.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/ternjs/infer.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/ternjs/infer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/ternjs/polyfill.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/ternjs/polyfill.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/ternjs/signal.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/ternjs/signal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/ternjs/tern.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/ternjs/tern.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/ui.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/ui.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/editor/js/libs/ui.three.js" afterPath="$PROJECT_DIR$/libs/three/editor/js/libs/ui.three.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/package.json" afterPath="$PROJECT_DIR$/libs/three/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/Three.Legacy.js" afterPath="$PROJECT_DIR$/libs/three/src/Three.Legacy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/Three.js" afterPath="$PROJECT_DIR$/libs/three/src/Three.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/animation/AnimationClip.js" afterPath="$PROJECT_DIR$/libs/three/src/animation/AnimationClip.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/animation/AnimationMixer.js" afterPath="$PROJECT_DIR$/libs/three/src/animation/AnimationMixer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/animation/AnimationObjectGroup.js" afterPath="$PROJECT_DIR$/libs/three/src/animation/AnimationObjectGroup.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/animation/AnimationUtils.js" afterPath="$PROJECT_DIR$/libs/three/src/animation/AnimationUtils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/animation/KeyframeTrack.js" afterPath="$PROJECT_DIR$/libs/three/src/animation/KeyframeTrack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/animation/PropertyBinding.js" afterPath="$PROJECT_DIR$/libs/three/src/animation/PropertyBinding.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/animation/PropertyMixer.js" afterPath="$PROJECT_DIR$/libs/three/src/animation/PropertyMixer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/animation/tracks/BooleanKeyframeTrack.js" afterPath="$PROJECT_DIR$/libs/three/src/animation/tracks/BooleanKeyframeTrack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/animation/tracks/ColorKeyframeTrack.js" afterPath="$PROJECT_DIR$/libs/three/src/animation/tracks/ColorKeyframeTrack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/animation/tracks/NumberKeyframeTrack.js" afterPath="$PROJECT_DIR$/libs/three/src/animation/tracks/NumberKeyframeTrack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/animation/tracks/QuaternionKeyframeTrack.js" afterPath="$PROJECT_DIR$/libs/three/src/animation/tracks/QuaternionKeyframeTrack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/animation/tracks/StringKeyframeTrack.js" afterPath="$PROJECT_DIR$/libs/three/src/animation/tracks/StringKeyframeTrack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/animation/tracks/VectorKeyframeTrack.js" afterPath="$PROJECT_DIR$/libs/three/src/animation/tracks/VectorKeyframeTrack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/audio/Audio.js" afterPath="$PROJECT_DIR$/libs/three/src/audio/Audio.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/audio/AudioAnalyser.js" afterPath="$PROJECT_DIR$/libs/three/src/audio/AudioAnalyser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/audio/AudioListener.js" afterPath="$PROJECT_DIR$/libs/three/src/audio/AudioListener.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/audio/PositionalAudio.js" afterPath="$PROJECT_DIR$/libs/three/src/audio/PositionalAudio.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/cameras/Camera.js" afterPath="$PROJECT_DIR$/libs/three/src/cameras/Camera.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/cameras/CubeCamera.js" afterPath="$PROJECT_DIR$/libs/three/src/cameras/CubeCamera.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/cameras/OrthographicCamera.js" afterPath="$PROJECT_DIR$/libs/three/src/cameras/OrthographicCamera.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/cameras/PerspectiveCamera.js" afterPath="$PROJECT_DIR$/libs/three/src/cameras/PerspectiveCamera.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/cameras/StereoCamera.js" afterPath="$PROJECT_DIR$/libs/three/src/cameras/StereoCamera.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/core/BufferAttribute.js" afterPath="$PROJECT_DIR$/libs/three/src/core/BufferAttribute.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/core/BufferGeometry.js" afterPath="$PROJECT_DIR$/libs/three/src/core/BufferGeometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/core/Clock.js" afterPath="$PROJECT_DIR$/libs/three/src/core/Clock.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/core/DirectGeometry.js" afterPath="$PROJECT_DIR$/libs/three/src/core/DirectGeometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/core/EventDispatcher.js" afterPath="$PROJECT_DIR$/libs/three/src/core/EventDispatcher.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/core/Face3.js" afterPath="$PROJECT_DIR$/libs/three/src/core/Face3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/core/Geometry.js" afterPath="$PROJECT_DIR$/libs/three/src/core/Geometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/core/InstancedBufferAttribute.js" afterPath="$PROJECT_DIR$/libs/three/src/core/InstancedBufferAttribute.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/core/InstancedBufferGeometry.js" afterPath="$PROJECT_DIR$/libs/three/src/core/InstancedBufferGeometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/core/InstancedInterleavedBuffer.js" afterPath="$PROJECT_DIR$/libs/three/src/core/InstancedInterleavedBuffer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/core/InterleavedBuffer.js" afterPath="$PROJECT_DIR$/libs/three/src/core/InterleavedBuffer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/core/InterleavedBufferAttribute.js" afterPath="$PROJECT_DIR$/libs/three/src/core/InterleavedBufferAttribute.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/core/Layers.js" afterPath="$PROJECT_DIR$/libs/three/src/core/Layers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/core/Object3D.js" afterPath="$PROJECT_DIR$/libs/three/src/core/Object3D.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/core/Raycaster.js" afterPath="$PROJECT_DIR$/libs/three/src/core/Raycaster.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/core/Uniform.js" afterPath="$PROJECT_DIR$/libs/three/src/core/Uniform.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/SceneUtils.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/SceneUtils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/ShapeUtils.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/ShapeUtils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/core/Curve.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/core/Curve.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/core/CurvePath.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/core/CurvePath.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/core/Font.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/core/Font.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/core/Path.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/core/Path.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/core/Shape.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/core/Shape.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/curves/ArcCurve.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/curves/ArcCurve.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/curves/CatmullRomCurve3.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/curves/CatmullRomCurve3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/curves/CubicBezierCurve.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/curves/CubicBezierCurve.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/curves/CubicBezierCurve3.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/curves/CubicBezierCurve3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/curves/EllipseCurve.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/curves/EllipseCurve.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/curves/LineCurve.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/curves/LineCurve.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/curves/LineCurve3.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/curves/LineCurve3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/curves/QuadraticBezierCurve.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/curves/QuadraticBezierCurve.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/curves/QuadraticBezierCurve3.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/curves/QuadraticBezierCurve3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/curves/SplineCurve.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/curves/SplineCurve.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/objects/ImmediateRenderObject.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/objects/ImmediateRenderObject.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/extras/objects/MorphBlendMesh.js" afterPath="$PROJECT_DIR$/libs/three/src/extras/objects/MorphBlendMesh.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/lights/AmbientLight.js" afterPath="$PROJECT_DIR$/libs/three/src/lights/AmbientLight.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/lights/DirectionalLight.js" afterPath="$PROJECT_DIR$/libs/three/src/lights/DirectionalLight.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/lights/HemisphereLight.js" afterPath="$PROJECT_DIR$/libs/three/src/lights/HemisphereLight.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/lights/Light.js" afterPath="$PROJECT_DIR$/libs/three/src/lights/Light.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/lights/LightShadow.js" afterPath="$PROJECT_DIR$/libs/three/src/lights/LightShadow.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/lights/PointLight.js" afterPath="$PROJECT_DIR$/libs/three/src/lights/PointLight.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/lights/SpotLight.js" afterPath="$PROJECT_DIR$/libs/three/src/lights/SpotLight.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/loaders/AnimationLoader.js" afterPath="$PROJECT_DIR$/libs/three/src/loaders/AnimationLoader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/loaders/BufferGeometryLoader.js" afterPath="$PROJECT_DIR$/libs/three/src/loaders/BufferGeometryLoader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/loaders/Cache.js" afterPath="$PROJECT_DIR$/libs/three/src/loaders/Cache.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/loaders/CompressedTextureLoader.js" afterPath="$PROJECT_DIR$/libs/three/src/loaders/CompressedTextureLoader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/loaders/CubeTextureLoader.js" afterPath="$PROJECT_DIR$/libs/three/src/loaders/CubeTextureLoader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/loaders/FontLoader.js" afterPath="$PROJECT_DIR$/libs/three/src/loaders/FontLoader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/loaders/ImageLoader.js" afterPath="$PROJECT_DIR$/libs/three/src/loaders/ImageLoader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/loaders/JSONLoader.js" afterPath="$PROJECT_DIR$/libs/three/src/loaders/JSONLoader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/loaders/Loader.js" afterPath="$PROJECT_DIR$/libs/three/src/loaders/Loader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/loaders/LoadingManager.js" afterPath="$PROJECT_DIR$/libs/three/src/loaders/LoadingManager.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/loaders/MaterialLoader.js" afterPath="$PROJECT_DIR$/libs/three/src/loaders/MaterialLoader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/loaders/ObjectLoader.js" afterPath="$PROJECT_DIR$/libs/three/src/loaders/ObjectLoader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/loaders/TextureLoader.js" afterPath="$PROJECT_DIR$/libs/three/src/loaders/TextureLoader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/materials/LineBasicMaterial.js" afterPath="$PROJECT_DIR$/libs/three/src/materials/LineBasicMaterial.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/materials/LineDashedMaterial.js" afterPath="$PROJECT_DIR$/libs/three/src/materials/LineDashedMaterial.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/materials/Material.js" afterPath="$PROJECT_DIR$/libs/three/src/materials/Material.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/materials/MeshBasicMaterial.js" afterPath="$PROJECT_DIR$/libs/three/src/materials/MeshBasicMaterial.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/materials/MeshDepthMaterial.js" afterPath="$PROJECT_DIR$/libs/three/src/materials/MeshDepthMaterial.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/materials/MeshLambertMaterial.js" afterPath="$PROJECT_DIR$/libs/three/src/materials/MeshLambertMaterial.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/materials/MeshNormalMaterial.js" afterPath="$PROJECT_DIR$/libs/three/src/materials/MeshNormalMaterial.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/materials/MeshPhongMaterial.js" afterPath="$PROJECT_DIR$/libs/three/src/materials/MeshPhongMaterial.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/materials/MeshStandardMaterial.js" afterPath="$PROJECT_DIR$/libs/three/src/materials/MeshStandardMaterial.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/materials/MultiMaterial.js" afterPath="$PROJECT_DIR$/libs/three/src/materials/MultiMaterial.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/materials/PointsMaterial.js" afterPath="$PROJECT_DIR$/libs/three/src/materials/PointsMaterial.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/materials/RawShaderMaterial.js" afterPath="$PROJECT_DIR$/libs/three/src/materials/RawShaderMaterial.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/materials/ShaderMaterial.js" afterPath="$PROJECT_DIR$/libs/three/src/materials/ShaderMaterial.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/materials/SpriteMaterial.js" afterPath="$PROJECT_DIR$/libs/three/src/materials/SpriteMaterial.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/Box2.js" afterPath="$PROJECT_DIR$/libs/three/src/math/Box2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/Box3.js" afterPath="$PROJECT_DIR$/libs/three/src/math/Box3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/Color.js" afterPath="$PROJECT_DIR$/libs/three/src/math/Color.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/Euler.js" afterPath="$PROJECT_DIR$/libs/three/src/math/Euler.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/Frustum.js" afterPath="$PROJECT_DIR$/libs/three/src/math/Frustum.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/Interpolant.js" afterPath="$PROJECT_DIR$/libs/three/src/math/Interpolant.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/Line3.js" afterPath="$PROJECT_DIR$/libs/three/src/math/Line3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/Math.js" afterPath="$PROJECT_DIR$/libs/three/src/math/Math.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/Matrix3.js" afterPath="$PROJECT_DIR$/libs/three/src/math/Matrix3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/Matrix4.js" afterPath="$PROJECT_DIR$/libs/three/src/math/Matrix4.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/Plane.js" afterPath="$PROJECT_DIR$/libs/three/src/math/Plane.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/Quaternion.js" afterPath="$PROJECT_DIR$/libs/three/src/math/Quaternion.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/Ray.js" afterPath="$PROJECT_DIR$/libs/three/src/math/Ray.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/Sphere.js" afterPath="$PROJECT_DIR$/libs/three/src/math/Sphere.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/Triangle.js" afterPath="$PROJECT_DIR$/libs/three/src/math/Triangle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/Vector2.js" afterPath="$PROJECT_DIR$/libs/three/src/math/Vector2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/Vector3.js" afterPath="$PROJECT_DIR$/libs/three/src/math/Vector3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/Vector4.js" afterPath="$PROJECT_DIR$/libs/three/src/math/Vector4.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/interpolants/CubicInterpolant.js" afterPath="$PROJECT_DIR$/libs/three/src/math/interpolants/CubicInterpolant.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/interpolants/DiscreteInterpolant.js" afterPath="$PROJECT_DIR$/libs/three/src/math/interpolants/DiscreteInterpolant.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/interpolants/LinearInterpolant.js" afterPath="$PROJECT_DIR$/libs/three/src/math/interpolants/LinearInterpolant.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/math/interpolants/QuaternionLinearInterpolant.js" afterPath="$PROJECT_DIR$/libs/three/src/math/interpolants/QuaternionLinearInterpolant.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/objects/Bone.js" afterPath="$PROJECT_DIR$/libs/three/src/objects/Bone.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/objects/Group.js" afterPath="$PROJECT_DIR$/libs/three/src/objects/Group.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/objects/LOD.js" afterPath="$PROJECT_DIR$/libs/three/src/objects/LOD.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/objects/LensFlare.js" afterPath="$PROJECT_DIR$/libs/three/src/objects/LensFlare.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/objects/Line.js" afterPath="$PROJECT_DIR$/libs/three/src/objects/Line.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/objects/LineSegments.js" afterPath="$PROJECT_DIR$/libs/three/src/objects/LineSegments.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/objects/Mesh.js" afterPath="$PROJECT_DIR$/libs/three/src/objects/Mesh.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/objects/Points.js" afterPath="$PROJECT_DIR$/libs/three/src/objects/Points.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/objects/Skeleton.js" afterPath="$PROJECT_DIR$/libs/three/src/objects/Skeleton.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/objects/SkinnedMesh.js" afterPath="$PROJECT_DIR$/libs/three/src/objects/SkinnedMesh.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/objects/Sprite.js" afterPath="$PROJECT_DIR$/libs/three/src/objects/Sprite.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/WebGLRenderTarget.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/WebGLRenderTarget.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/WebGLRenderTargetCube.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/WebGLRenderTargetCube.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/WebGLRenderer.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/WebGLRenderer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/alphamap_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/alphamap_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/alphamap_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/alphamap_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/alphatest_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/alphatest_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/aomap_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/aomap_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/aomap_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/aomap_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/begin_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/begin_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/beginnormal_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/beginnormal_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/bsdfs.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/bsdfs.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/bumpmap_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/bumpmap_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/color_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/color_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/color_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/color_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/color_pars_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/color_pars_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/color_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/color_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/common.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/common.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/defaultnormal_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/defaultnormal_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/displacementmap_pars_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/displacementmap_pars_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/displacementmap_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/displacementmap_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/emissivemap_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/emissivemap_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/emissivemap_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/emissivemap_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/envmap_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/envmap_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/envmap_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/envmap_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/envmap_pars_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/envmap_pars_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/envmap_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/envmap_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/fog_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/fog_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/fog_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/fog_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/lightmap_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/lightmap_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/lightmap_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/lightmap_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/lights_lambert_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/lights_lambert_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/lights_pars.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/lights_pars.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/lights_phong_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/lights_phong_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/lights_phong_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/lights_phong_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/lights_template.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/lights_template.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/logdepthbuf_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/logdepthbuf_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/logdepthbuf_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/logdepthbuf_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/logdepthbuf_pars_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/logdepthbuf_pars_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/logdepthbuf_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/logdepthbuf_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/map_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/map_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/map_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/map_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/map_particle_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/map_particle_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/map_particle_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/map_particle_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/metalnessmap_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/metalnessmap_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/metalnessmap_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/metalnessmap_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/morphnormal_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/morphnormal_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/morphtarget_pars_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/morphtarget_pars_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/morphtarget_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/morphtarget_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/normal_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/normal_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/normalmap_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/normalmap_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/project_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/project_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/roughnessmap_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/roughnessmap_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/roughnessmap_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/roughnessmap_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/shadowmap_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/shadowmap_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/shadowmap_pars_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/shadowmap_pars_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/shadowmap_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/shadowmap_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/shadowmask_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/shadowmask_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/skinbase_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/skinbase_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/skinning_pars_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/skinning_pars_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/skinning_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/skinning_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/skinnormal_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/skinnormal_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/specularmap_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/specularmap_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/specularmap_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/specularmap_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/uv2_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/uv2_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/uv2_pars_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/uv2_pars_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/uv2_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/uv2_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/uv_pars_fragment.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/uv_pars_fragment.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/uv_pars_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/uv_pars_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/uv_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/uv_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/worldpos_vertex.glsl" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderChunk/worldpos_vertex.glsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderLib.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/ShaderLib.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/UniformsLib.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/UniformsLib.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/shaders/UniformsUtils.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/shaders/UniformsUtils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLBufferRenderer.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLBufferRenderer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLCapabilities.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLCapabilities.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLExtensions.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLExtensions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLGeometries.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLGeometries.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLIndexedBufferRenderer.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLIndexedBufferRenderer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLLights.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLLights.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLObjects.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLObjects.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLProgram.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLProgram.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLPrograms.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLPrograms.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLProperties.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLProperties.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLShader.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLShader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLShadowMap.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLShadowMap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLState.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/webgl/WebGLState.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/webgl/plugins/LensFlarePlugin.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/webgl/plugins/LensFlarePlugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/renderers/webgl/plugins/SpritePlugin.js" afterPath="$PROJECT_DIR$/libs/three/src/renderers/webgl/plugins/SpritePlugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/scenes/Fog.js" afterPath="$PROJECT_DIR$/libs/three/src/scenes/Fog.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/scenes/FogExp2.js" afterPath="$PROJECT_DIR$/libs/three/src/scenes/FogExp2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/scenes/Scene.js" afterPath="$PROJECT_DIR$/libs/three/src/scenes/Scene.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/textures/CanvasTexture.js" afterPath="$PROJECT_DIR$/libs/three/src/textures/CanvasTexture.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/textures/CompressedTexture.js" afterPath="$PROJECT_DIR$/libs/three/src/textures/CompressedTexture.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/textures/CubeTexture.js" afterPath="$PROJECT_DIR$/libs/three/src/textures/CubeTexture.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/textures/DataTexture.js" afterPath="$PROJECT_DIR$/libs/three/src/textures/DataTexture.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/textures/Texture.js" afterPath="$PROJECT_DIR$/libs/three/src/textures/Texture.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/src/textures/VideoTexture.js" afterPath="$PROJECT_DIR$/libs/three/src/textures/VideoTexture.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/benchmark/core/Float32Array.js" afterPath="$PROJECT_DIR$/libs/three/test/benchmark/core/Float32Array.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/benchmark/core/Vector3Components.js" afterPath="$PROJECT_DIR$/libs/three/test/benchmark/core/Vector3Components.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/benchmark/core/Vector3Length.js" afterPath="$PROJECT_DIR$/libs/three/test/benchmark/core/Vector3Length.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/benchmark/core/Vector3Storage.js" afterPath="$PROJECT_DIR$/libs/three/test/benchmark/core/Vector3Storage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/perf.html" afterPath="$PROJECT_DIR$/libs/three/test/perf.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/SmartComparer.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/SmartComparer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/animation/AnimationObjectGroup.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/animation/AnimationObjectGroup.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/cameras/Camera.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/cameras/Camera.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/cameras/OrthographicCamera.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/cameras/OrthographicCamera.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/cameras/PerspectiveCamera.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/cameras/PerspectiveCamera.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/core/BufferAttribute.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/core/BufferAttribute.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/core/BufferGeometry.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/core/BufferGeometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/core/Clock.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/core/Clock.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/core/EventDispatcher.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/core/EventDispatcher.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/core/Face3.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/core/Face3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/core/Geometry.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/core/Geometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/core/InstancedBufferAttribute.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/core/InstancedBufferAttribute.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/core/InstancedBufferGeometry.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/core/InstancedBufferGeometry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/core/InstancedInterleavedBuffer.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/core/InstancedInterleavedBuffer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/core/InterleavedBuffer.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/core/InterleavedBuffer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/core/InterleavedBufferAttribute.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/core/InterleavedBufferAttribute.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/core/Object3D.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/core/Object3D.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/core/Raycaster.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/core/Raycaster.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/CommonUtilities.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/CommonUtilities.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestAddObjectCommandAndRemoveObjectCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestAddObjectCommandAndRemoveObjectCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestAddScriptCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestAddScriptCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestMassUndoAndRedo.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestMassUndoAndRedo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestMoveObjectCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestMoveObjectCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestMultiCmdsCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestMultiCmdsCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestNegativeCases.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestNegativeCases.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestNestedDoUndoRedo.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestNestedDoUndoRedo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestRemoveScriptCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestRemoveScriptCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSerialization.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSerialization.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetColorCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetColorCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetGeometryCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetGeometryCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetGeometryValueCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetGeometryValueCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetMaterialColorCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetMaterialColorCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetMaterialCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetMaterialCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetMaterialMapCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetMaterialMapCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetMaterialValueCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetMaterialValueCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetPositionCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetPositionCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetRotationCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetRotationCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetScaleCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetScaleCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetSceneCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetSceneCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetScriptValueCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetScriptValueCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetUuidCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetUuidCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetValueCommand.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/editor/TestSetValueCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/ImageUtils.test.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/extras/ImageUtils.test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/extras/curves/CatmullRomCurve3.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/extras/curves/CatmullRomCurve3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/lights/AmbientLight.tests.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/lights/AmbientLight.tests.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/lights/DirectionalLight.tests.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/lights/DirectionalLight.tests.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/lights/HemisphereLight.tests.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/lights/HemisphereLight.tests.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/lights/PointLight.tests.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/lights/PointLight.tests.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/lights/SpotLight.tests.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/lights/SpotLight.tests.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Box2.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Box2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Box3.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Box3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Color.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Color.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Constants.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Constants.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Euler.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Euler.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Frustum.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Frustum.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Interpolant.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Interpolant.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Line3.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Line3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Math.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Math.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Matrix3.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Matrix3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Matrix4.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Matrix4.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Plane.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Plane.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Quaternion.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Quaternion.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Ray.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Ray.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Sphere.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Sphere.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Triangle.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Triangle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Vector2.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Vector2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Vector3.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Vector3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/math/Vector4.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/math/Vector4.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/qunit-1.18.0.css" afterPath="$PROJECT_DIR$/libs/three/test/unit/qunit-1.18.0.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/qunit-1.18.0.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/qunit-1.18.0.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/qunit-utils.js" afterPath="$PROJECT_DIR$/libs/three/test/unit/qunit-utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/unittests_editor.html" afterPath="$PROJECT_DIR$/libs/three/test/unit/unittests_editor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/unittests_sources.html" afterPath="$PROJECT_DIR$/libs/three/test/unit/unittests_sources.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/unittests_three-math.html" afterPath="$PROJECT_DIR$/libs/three/test/unit/unittests_three-math.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/unittests_three.html" afterPath="$PROJECT_DIR$/libs/three/test/unit/unittests_three.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/test/unit/unittests_three.min.html" afterPath="$PROJECT_DIR$/libs/three/test/unit/unittests_three.min.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/build/compiler/COPYING" afterPath="$PROJECT_DIR$/libs/three/utils/build/compiler/COPYING" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/build/compiler/README.md" afterPath="$PROJECT_DIR$/libs/three/utils/build/compiler/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/ctm/LICENSE.txt" afterPath="$PROJECT_DIR$/libs/three/utils/converters/ctm/LICENSE.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/ctm/join_ctm.py" afterPath="$PROJECT_DIR$/libs/three/utils/converters/ctm/join_ctm.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/fbx/LICENSE" afterPath="$PROJECT_DIR$/libs/three/utils/converters/fbx/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/fbx/README.md" afterPath="$PROJECT_DIR$/libs/three/utils/converters/fbx/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/fbx/convert_to_threejs.py" afterPath="$PROJECT_DIR$/libs/three/utils/converters/fbx/convert_to_threejs.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/json2msgpack.py" afterPath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/json2msgpack.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/__init__.py" afterPath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/_packer.pyx" afterPath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/_packer.pyx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/_unpacker.pyx" afterPath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/_unpacker.pyx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/_version.py" afterPath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/_version.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/exceptions.py" afterPath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/exceptions.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/fallback.py" afterPath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/fallback.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/pack.h" afterPath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/pack.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/pack_template.h" afterPath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/pack_template.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/sysdep.h" afterPath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/sysdep.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/unpack.h" afterPath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/unpack.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/unpack_define.h" afterPath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/unpack_define.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/unpack_template.h" afterPath="$PROJECT_DIR$/libs/three/utils/converters/msgpack/msgpack/unpack_template.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/obj/convert_obj_three.py" afterPath="$PROJECT_DIR$/libs/three/utils/converters/obj/convert_obj_three.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/obj/convert_obj_three_for_python3.py" afterPath="$PROJECT_DIR$/libs/three/utils/converters/obj/convert_obj_three_for_python3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/obj/split_obj.py" afterPath="$PROJECT_DIR$/libs/three/utils/converters/obj/split_obj.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/utf8/build.bat" afterPath="$PROJECT_DIR$/libs/three/utils/converters/utf8/build.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/README" afterPath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/README" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/base.h" afterPath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/base.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/bounds.h" afterPath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/bounds.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/compress.h" afterPath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/compress.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/mesh.h" afterPath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/mesh.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/obj2utf8.cc" afterPath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/obj2utf8.cc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/obj2utf8x.cc" afterPath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/obj2utf8x.cc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/objcompress.cc" afterPath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/objcompress.cc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/optimize.h" afterPath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/optimize.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/stream.h" afterPath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/stream.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/utf8.h" afterPath="$PROJECT_DIR$/libs/three/utils/converters/utf8/src/utf8.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/.gitignore" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/README.md" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/__init__.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/constants.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/constants.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/dialogs.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/dialogs.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exceptions.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exceptions.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/__init__.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/_json.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/_json.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/__init__.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/animation.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/animation.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/camera.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/camera.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/constants.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/constants.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/image.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/image.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/light.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/light.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/material.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/material.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/mesh.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/mesh.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/object.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/object.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/texture.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/api/texture.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/base_classes.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/base_classes.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/geometry.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/geometry.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/image.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/image.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/io.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/io.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/material.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/material.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/object.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/object.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/scene.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/scene.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/texture.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/texture.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/utilities.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/exporter/utilities.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/logger.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/addons/io_three/logger.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/README.md" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/__init__.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/_packer.pyx" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/_packer.pyx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/_unpacker.pyx" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/_unpacker.pyx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/_version.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/_version.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/exceptions.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/exceptions.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/fallback.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/fallback.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/pack.h" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/pack.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/pack_template.h" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/pack_template.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/sysdep.h" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/sysdep.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/unpack.h" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/unpack.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/unpack_define.h" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/unpack_define.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/unpack_template.h" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/modules/msgpack/unpack_template.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/README.md" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/css/style.css" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/exporter.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/exporter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/js/review.js" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/js/review.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/review.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/review.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/setup_test_env.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/setup_test_env.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_buffer_geometry.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_buffer_geometry.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_animation.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_animation.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_bump_spec_maps.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_bump_spec_maps.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_diffuse_map.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_diffuse_map.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_influences.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_influences.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_lambert_material.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_lambert_material.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_light_map.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_light_map.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_mix_colors.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_mix_colors.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_morph_targets.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_morph_targets.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_normal_map.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_normal_map.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_normals.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_normals.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_phong_material.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_phong_material.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_vertex_colors.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_vertex_colors.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_wireframe.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_geometry_wireframe.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_area_light.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_area_light.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_buffer_geometry.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_buffer_geometry.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_buffer_geometry_noembed.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_buffer_geometry_noembed.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_children.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_children.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_directional_light.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_directional_light.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_hemi_light.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_hemi_light.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_instancing.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_instancing.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_maps.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_maps.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_no_embed.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_no_embed.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_orthographic.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_orthographic.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_perspective.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_perspective.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_point_light.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_point_light.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_spot_light.bash" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/blender/tests/scripts/test_scene_spot_light.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/max/ThreeJSAnimationExporter.ms" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/max/ThreeJSAnimationExporter.ms" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/max/ThreeJSExporter.ms" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/max/ThreeJSExporter.ms" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/max/ThreeJSExporter_MorphTargets_v0.ms" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/max/ThreeJSExporter_MorphTargets_v0.ms" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/max/annotate/README.md" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/max/annotate/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/max/annotate/annotate.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/max/annotate/annotate.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/maya/README.md" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/maya/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/maya/plug-ins/threeJsFileTranslator.py" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/maya/plug-ins/threeJsFileTranslator.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/maya/scripts/ThreeJsExportScript.mel" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/maya/scripts/ThreeJsExportScript.mel" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/exporters/revit/README.md" afterPath="$PROJECT_DIR$/libs/three/utils/exporters/revit/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/servers/nodejs_server.sh" afterPath="$PROJECT_DIR$/libs/three/utils/servers/nodejs_server.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/servers/perl_server.sh" afterPath="$PROJECT_DIR$/libs/three/utils/servers/perl_server.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/servers/python_server.sh" afterPath="$PROJECT_DIR$/libs/three/utils/servers/python_server.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/servers/ruby_server.sh" afterPath="$PROJECT_DIR$/libs/three/utils/servers/ruby_server.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/three/utils/servers/simplehttpserver.js" afterPath="$PROJECT_DIR$/libs/three/utils/servers/simplehttpserver.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/cube_class.js" afterPath="$PROJECT_DIR$/js/cube_class.js" />
     </list>
     <ignored path="cube.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -685,28 +25,45 @@
     <favorites_list name="cube" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="cube_class.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/cube_class.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-223">
-              <caret line="435" column="11" selection-start-line="435" selection-start-column="5" selection-end-line="435" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.39443156">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="cube_class.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/cube_class.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scene_building.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/scene_building.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="113" column="154" selection-start-line="113" selection-start-column="154" selection-end-line="113" selection-end-column="154" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -715,22 +72,24 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/cube.js" />
+        <option value="$PROJECT_DIR$/js/rotations.js" />
+        <option value="$PROJECT_DIR$/js/rotatable.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/cube_class.js" />
+        <option value="$PROJECT_DIR$/js/scene_building.js" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -739,7 +98,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -791,8 +150,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -814,12 +173,10 @@
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
-    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
-      <config-file value="" />
-      <node-interpreter value="project" />
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
       <envs />
       <method />
     </configuration>
@@ -836,17 +193,20 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run-script" />
       <scripts />
-      <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
     <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
       <node-options />
       <working-directory />
       <pass-parent-env>true</pass-parent-env>
@@ -869,15 +229,15 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="cb067923-463a-4f84-9b33-b4fb05c9fe30" name="Default" comment="" />
       <created>1489308879231</created>
       <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
       <updated>1489308879231</updated>
       <workItem from="1489308882303" duration="15358000" />
     </task>
@@ -887,55 +247,113 @@
     <option name="totallyTimeSpent" value="15358000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24894291" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.122023806" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/cube.js">
+    <entry file="file://$PROJECT_DIR$/js/cube_class.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3181">
-          <caret line="265" column="14" selection-start-line="265" selection-start-column="14" selection-end-line="265" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/OrbitControls_fixed.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/cube.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="450" column="18" selection-start-line="450" selection-start-column="4" selection-end-line="450" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/rotatable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.019144144">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DOMEvents.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="158" column="0" selection-start-line="158" selection-start-column="0" selection-end-line="158" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scene_building.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="113" column="154" selection-start-line="113" selection-start-column="154" selection-end-line="113" selection-end-column="154" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/cube_class.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-223">
-          <caret line="435" column="11" selection-start-line="435" selection-start-column="5" selection-end-line="435" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39443156">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
