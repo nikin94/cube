@@ -44,9 +44,21 @@ class Scene_building{
 
         document.addEventListener('mousedown', this.onMouseDown);
         document.addEventListener('mouseup', this.onMouseUp);
-        document.addEventListener('mousemove', this.onMouseMove, false );
 
-        animate();//стандартная функция, чтобы все двигалось :)
+		//document.addEventListener('mousemove',  this => this.onMouseMove(event), false ); ES6
+		this.onMouseMove = this.onMouseMove.bind(this);
+		document.addEventListener('mousemove', this.onMouseMove, false );
+
+		function animate() {
+			requestAnimationFrame(animate);
+
+			this.camera.lookAt(this.scene.position);
+			this.render.render(this.scene, this.camera);
+		}
+		animate = animate.bind(this);
+		animate();//стандартная функция, чтобы все двигалось :)
+
+
 
         new THREE.OrbitControls(this.camera, this.render.domElement); // вращение камеры. Тут доже очень долго пытался написать вращения камеры самостоятельно, пока не узнал, что велосипед уже изобрели. Повороты камеры при зажатом CTRL
 
@@ -65,16 +77,8 @@ class Scene_building{
                 }
             }
         }
-
-        function animate() {
-            requestAnimationFrame(animate);
-            this.camera.lookAt(this.scene.position);
-            this.render.render(this.scene, this.camera);
-        }
-
     }
-
-    addSubCube (vector) {
+	addSubCube (vector) {
         var subCubeGeom = this.modifiedCubeGeometry(vector);
         var subCube = new THREE.Mesh(subCubeGeom, Cube.material);
 
@@ -126,7 +130,7 @@ class Scene_building{
         this.isMouseDown = false;
     }
 
-    onMouseMove( event ) {//поворот грани при зажатой LMB относительно того, куда повели указатель
+	onMouseMove( event ) {//поворот грани при зажатой LMB относительно того, куда повели указатель
         if(event.ctrlKey) return;
         event.preventDefault();
         this.mouse.x = ( event.clientX / window.innerWidth ) * 2 - 1;
