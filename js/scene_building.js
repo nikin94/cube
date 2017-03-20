@@ -65,9 +65,9 @@ class Scene_building{
                 }
             }
         }
+
         function animate() {
             requestAnimationFrame(animate);
-
             this.camera.lookAt(this.scene.position);
             this.render.render(this.scene, this.camera);
         }
